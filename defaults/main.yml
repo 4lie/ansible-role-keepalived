@@ -2,7 +2,7 @@
 
 # Variables for role keepalived
 
-keepalived_auth_pass: "1111"
+keepalived_auth_pass: "secret"
 keepalived_role: "MASTER"
 keepalived_router_id: "52"
 keepalived_shared_iface: "eth0"
